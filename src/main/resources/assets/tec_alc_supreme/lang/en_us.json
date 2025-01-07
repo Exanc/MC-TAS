@@ -1,0 +1,35 @@
+{
+  "item.tec_alc_supreme.bismuth": "Bismuth",
+  "item.tec_alc_supreme.raw_bismuth": "Raw Bismuth",
+  "item.tec_alc_supreme.chisel": "Chisel",
+
+  "tooltip.tec_alc_supreme.chisel.short": "Press §e[SHIFT]§r for more information",
+  "tooltip.tec_alc_supreme.chisel.long": "Transform stone into bricks",
+
+  "block.tec_alc_supreme.bismuth_block": "Block of Bismuth",
+  "block.tec_alc_supreme.bismuth_ore": "Bismuth Ore",
+  "block.tec_alc_supreme.bismuth_deepslate_ore": "Bismuth Deepslate Ore",
+  "block.tec_alc_supreme.bismuth_nether_ore": "Bismuth Nether Ore",
+  "block.tec_alc_supreme.bismuth_end_ore": "Bismuth End Ore",
+  "block.tec_alc_supreme.magic_block": "Magic Block",
+
+  "block.tec_alc_supreme.bismuth_button": "Bismuth Button",
+  "block.tec_alc_supreme.bismuth_door": "Bismuth Door",
+  "block.tec_alc_supreme.bismuth_stairs": "Bismuth Stairs",
+  "block.tec_alc_supreme.bismuth_trap_door": "Bismuth Trap Door",
+  "block.tec_alc_supreme.bismuth_fence": "Bismuth Fence",
+  "block.tec_alc_supreme.bismuth_fence_gate": "Bismuth Fence Gate",
+  "block.tec_alc_supreme.bismuth_presure_plate": "Bismuth Presure Plate",
+  "block.tec_alc_supreme.bismuth_slab": "Bismuth Slab",
+  "block.tec_alc_supreme.bismuth_wall": "Bismuth Wall",
+  "block.tec_alc_supreme.bismuth_lamp": "Bismuth Lamp",
+
+  "tooltip.tec_alc_supreme.magic_block": "This Block is very §9Magical§r",
+  "creative_tab.tec_alc_supreme.techno_alchemical_tab": "Techno Alchemical Supreme",
+  "sounds.tec_alc_supreme.chisel_use": "Chiselling Stone",
+  "sounds.tec_alc_supreme.magic_block_break": "Block Breaking",
+  "sounds.tec_alc_supreme.magic_block_step":  "Steps",
+  "sounds.tec_alc_supreme.magic_block_place": "Block Placed",
+  "sounds.tec_alc_supreme.magic_block_hit":   "Block Hited",
+  "sounds.tec_alc_supreme.magic_block_fall":  "Entity Fell"
+}

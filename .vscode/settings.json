@@ -1,0 +1,9 @@
+{
+  "java.compile.nullAnalysis.mode": "disabled",
+  "[java]": {
+    "editor.insertSpaces": true,
+  },
+  "java.format.settings.url": ".vscode/java-formatter.xml",
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.dependency.packagePresentation": "flat"
+}

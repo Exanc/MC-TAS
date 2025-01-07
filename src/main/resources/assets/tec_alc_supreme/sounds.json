@@ -1,0 +1,26 @@
+{
+  "chisel_use": {
+    "subtitle": "sounds.tec_alc_supreme.chisel_use",
+    "sounds": [ "tec_alc_supreme:chisel_use" ]
+  },
+  "magic_block_break": {
+    "subtitle": "sounds.tec_alc_supreme.magic_block_break",
+    "sounds": [ "tec_alc_supreme:magic_block_break" ]
+  },
+  "magic_block_step": {
+    "subtitle": "sounds.tec_alc_supreme.magic_block_step",
+    "sounds": [ "tec_alc_supreme:magic_block_step" ]
+  },
+  "magic_block_place": {
+    "subtitle": "sounds.tec_alc_supreme.magic_block_place",
+    "sounds": [ "tec_alc_supreme:magic_block_place" ]
+  },
+  "magic_block_hit": {
+    "subtitle": "sounds.tec_alc_supreme.magic_block_hit",
+    "sounds": [ "tec_alc_supreme:magic_block_hit" ]
+  },
+  "magic_block_fall": {
+    "subtitle": "sounds.tec_alc_supreme.magic_block_fall",
+    "sounds": [ "tec_alc_supreme:magic_block_fall" ]
+  }
+}

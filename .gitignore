@@ -1,7 +1,6 @@
 # eclipse
 bin
 *.launch
-.settings
 .metadata
 .classpath
 .project
@@ -16,6 +15,7 @@ out
 # gradle
 build
 .gradle
+src/generated
 
 # other
 eclipse
